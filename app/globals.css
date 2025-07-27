@@ -7,7 +7,9 @@
 }
 
 /* Import Tailwind's styles */
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
 
 /* Custom styles can go here */
 
